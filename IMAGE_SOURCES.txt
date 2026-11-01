@@ -1,0 +1,9 @@
+Images for "Big Tech Spent More Than It Earned on AI This Quarter. I Did the Payback Math."
+All images are the author's own, drawn with code (matplotlib / Pillow). No AI image generation.
+
+cover_ai_capex.png / cover_ai_capex_medium.png  - Cover. Credit: Author's own experiment, code at https://github.com/delini2018-del/ai-capex-payback
+01_quarterly_capex.png    - Figure 1. Data: Epoch AI (https://epoch.ai/data/charts/hyperscaler-capex-trend/stacked_hyperscalers_trend.csv) and Q3 2026 company reports.
+02_free_cash_flow.png     - Figure 2. Data: company earnings reports (Alphabet, Amazon, Meta, Microsoft, Oct 2026).
+03_required_vs_actual.png - Figure 3. Author's payback model.
+04_sensitivity.png        - Figure 4. Author's payback model, sensitivity sweep.
+Credit for all figures: Author's own experiment, code at https://github.com/delini2018-del/ai-capex-payback
